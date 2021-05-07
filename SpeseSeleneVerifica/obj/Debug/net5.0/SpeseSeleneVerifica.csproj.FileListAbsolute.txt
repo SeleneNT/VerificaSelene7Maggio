@@ -1,0 +1,16 @@
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\SpeseSeleneVerifica.exe
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\SpeseSeleneVerifica.deps.json
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\SpeseSeleneVerifica.runtimeconfig.json
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\SpeseSeleneVerifica.runtimeconfig.dev.json
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\SpeseSeleneVerifica.dll
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\ref\SpeseSeleneVerifica.dll
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\bin\Debug\net5.0\SpeseSeleneVerifica.pdb
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.csprojAssemblyReference.cache
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.AssemblyInfoInputs.cache
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.AssemblyInfo.cs
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.csproj.CoreCompileInputs.cache
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.dll
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\ref\SpeseSeleneVerifica.dll
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.pdb
+C:\Users\selene.c.tucciarone\source\repos\SpeseSeleneVerifica\SpeseSeleneVerifica\obj\Debug\net5.0\SpeseSeleneVerifica.genruntimeconfig.cache
